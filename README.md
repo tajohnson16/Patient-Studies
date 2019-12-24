@@ -12,7 +12,7 @@ data is stored on a MongoDB database with three collections:
         <li>SV (Study Visits)</li>
     </ul>
 
-<h2>Languages:</h2>
+<h2>Languages</h2>
     <ul>
         <li>PHP</li>
         <li>Javascript</li>
